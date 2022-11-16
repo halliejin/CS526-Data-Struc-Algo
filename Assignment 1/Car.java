@@ -31,7 +31,7 @@ public class Car {
    
    public String toString() {
 	   String c =
-				"\tMake = " + make +
+		    "\tMake = " + make +
 	            "\tYear = " + year +
 	            "\tPrice = " + price;
 	   return c;
