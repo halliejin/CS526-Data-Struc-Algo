@@ -7,7 +7,7 @@ public class Hw2_p3 {
 	// you may want to write a separate method with additional parameters, which is recursive
 	
 	public static void reverse(DoublyLinkedList<Integer> intList){
-		// complete this method
+		
 		helper(intList, intList.size());
 	}
 
